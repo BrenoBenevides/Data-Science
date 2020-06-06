@@ -4,7 +4,7 @@
   <img src="banner.png" >
 </p>
 
-<h2> Breno Benevides<h2>
+## Breno Benevides
   
 **Apresentação**
 Estou fazendo graduação em Ciência de Dados pelo grupo Wyden Educacional. Possuo background em matematica,estatística e python.
