@@ -4,6 +4,11 @@
   <img src="banner.png" >
 </p>
 
+<h2> Breno Benevides<h2>
+  
+**Apresentação**
+Estou fazendo graduação em Ciência de Dados pelo grupo Wyden Educacional. Possuo background em matematica,estatística e python.
+Atualmente estou trabalhando em uma transportadora de cargas onde atuo no setor de logística da empresa,gerenciando um grupo de 20 pessoas.
 
 
 
