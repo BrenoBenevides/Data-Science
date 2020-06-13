@@ -25,7 +25,7 @@ Background:
 
 ## Projetos:
 
-1 - [Analisando dados Airbnb](https://bit.ly/2UGoSjI)
+1 - [Analisando dados Airbnb](https://bit.ly/2AyRxQz)
 
 
 ---
