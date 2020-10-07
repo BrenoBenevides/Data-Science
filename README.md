@@ -7,8 +7,9 @@
 ## Breno Benevides
   
 **Apresentação**
+Trabalhei numa empresa de transporte durante 3 anos (2017-2020),onde gerenciava uma equipe de cerca de 20 motoristas,na emissao de documentos e controle de rotas.
+Atualmente estou estagiando no Instituto Atlântico na área de Big Data,prestando serviços de análises de dados para a HP Inc.
 
-Atualmente trabalho em uma empresa de transporte de cargas no setor de logística,gerenciando uma equipe de cerca de 20 pessoas. 
 Devido a ascensão da Ciência de Dados busquei conhecer a área e hoje estou fazendo graduação na Wyden Educacional e por fora fazendo um curso da melhor escola de Data Science do brasil [Sigmoidal](https://sigmoidal.ai/).
 
 Background:
@@ -25,7 +26,7 @@ Background:
 
 ## Projetos:
 
-1 - [Analisando dados Airbnb](https://bit.ly/2AyRxQz)
+1 - [Analisando dados Airbnb](https://github.com/BrenoBenevides/Data-Science-Projects/blob/main/Analise_Airbnb.ipynb)
 
 
 ---
