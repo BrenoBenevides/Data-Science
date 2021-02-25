@@ -1,32 +1,28 @@
 [![author](https://img.shields.io/badge/author-BrenoBenevides-red.svg)](https://www.linkedin.com/in/breno-benevides-173665143/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)]
 
-<p align="center">
-  <img src="banner.png" >
-</p>
+<img src='https://user-images.githubusercontent.com/66378660/109161834-485ed780-7756-11eb-8bd4-ab502af29adc.jpg' width='50%' align='right'>
 
 ## Breno Benevides
   
-**Apresentação**
-Trabalhei numa empresa de transporte durante 3 anos (2017-2020),onde gerenciava uma equipe de cerca de 20 motoristas,na emissao de documentos e controle de rotas.
-Atualmente estou estagiando no Instituto Atlântico na área de Big Data,prestando serviços de análises de dados para a HP Inc.
+**Presentation**
+<p>
 
-Devido a ascensão da Ciência de Dados busquei conhecer a área e hoje estou fazendo graduação na Wyden Educacional e por fora fazendo um curso da melhor escola de Data Science do brasil [Sigmoidal](https://sigmoidal.ai/).
+I'm currently working as an Data Science intern at [Instituto Atlantico](https://www.atlantico.com.br/),where i am part of a Big Data team that provides TI and business services
+for HP Inc.
+
+As a tech and business enthusiast i saw in the data science field a way to work with two things that i love,programming and business.
+
+So that's me for now.
+</p>
 
 Background:
 
-- Estatística
-- Matemática
+- Statistics
 - Python
-- Lógica de Programação
+- Programming Logic
+- Business
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/breno-benevides-173665143/)
 
 
-
-## Projetos:
-
-1 - [Analisando dados Airbnb](https://github.com/BrenoBenevides/Data-Science-Projects/blob/main/Analise_Airbnb.ipynb)
-
-
----
