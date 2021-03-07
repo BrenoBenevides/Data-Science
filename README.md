@@ -15,12 +15,13 @@ As a tech and business enthusiast i saw in the data science field a way to work 
 So that's me for now.
 </p>
 
-Background:
+Skills and Tools:
 
 - Statistics
 - Python
-- Programming Logic
 - Business
+- SQL
+- Power BI
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/breno-benevides-173665143/)
